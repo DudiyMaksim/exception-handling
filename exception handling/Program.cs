@@ -93,7 +93,7 @@ class Money
 
     public override string ToString()
     {
-        return $"{Hryvnias} грн {Kopecks:D2} коп";
+        return $"{Hryvnias} grn {Kopecks:D2} kop";
     }
 
 
